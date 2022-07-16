@@ -46,7 +46,7 @@ header {
 .intro-chunk {
   color: hsl(0deg, 0%, 10%);
   font-size: 1rem;
-  padding: 32px;
+  padding: 24px;
   max-width: 480px;
 }
 
@@ -77,5 +77,5 @@ main {
 .card {
   background-color: hsl(0deg, 0%, 100%);
   border-bottom: solid 8px hsl(0deg, 0%, 40%);
-  padding: 8px 32px;
+  padding: 8px 24px;
 }
